@@ -2,8 +2,8 @@
 Datawhys High School content Notebooks (Python)
 
 -	Getting around 
--	Data science and the nature of data 
--	Plotting 
+-	[Data science and the nature of data](Datascience and the nature of data.ipynb) 
+-	[Plotting](Plotting.ipynb) 
 -	Descriptive stats 
 -	Measures of association 
 -	Clustering 

@@ -5,7 +5,7 @@ Datawhys High School content Notebooks (Python)
 -	[Data science and the nature of data](Datascience_and_the_Nature_of_Data.ipynb) 
 -	[Plotting](Plotting.ipynb) 
 -	[Descriptive Stats](Descriptive_Statistics.ipynb)
--	Measures of association 
+-	[Measures of association](Measures_of_association.ipynb) 
 -	Clustering 
 -	KNN classification 
 -	KNN regression 

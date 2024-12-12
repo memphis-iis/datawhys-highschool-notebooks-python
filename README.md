@@ -5,7 +5,7 @@
 -	[Plotting](Plotting.ipynb) 
 -	[Descriptive Stats](Descriptive_Statistics.ipynb)
 -	[Measures of association](Measures_of_Association.ipynb) 
--	Clustering 
+-	[Clustering](Clustering.ipynb) 
 -	KNN classification 
 -	KNN regression 
 -	Simple linear regression 

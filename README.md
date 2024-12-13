@@ -7,7 +7,7 @@
 -	[Measures of association](Measures_of_Association.ipynb) 
 -	[Clustering](Clustering.ipynb) 
 -	[KNN classification](KNN_Classification.ipynb) 
--	KNN regression 
+-	[KNN regression](KNN_Regression.ipynb) 
 -	Simple linear regression 
 -	Multiple linear regression 
 -	Logistic regression 

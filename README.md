@@ -8,7 +8,7 @@
 -	[Clustering](Clustering.ipynb) 
 -	[KNN classification](KNN_Classification.ipynb) 
 -	[KNN regression](KNN_Regression.ipynb) 
--	Simple linear regression 
+-	[Simple linear regression](Simple_Linear_Regression.ipynb) 
 -	Multiple linear regression 
 -	Logistic regression 
 -	N/A: Lasso 

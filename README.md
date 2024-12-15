@@ -10,7 +10,7 @@
 -	[KNN regression](KNN_Regression.ipynb) 
 -	[Simple linear regression](Simple_Linear_Regression.ipynb) 
 -	[Multiple linear regression](Multiple_Linear_Regression.ipynb) 
--	Logistic regression 
+-	[Logistic regression](Logistic_Regression.ipynb) 
 -	N/A: Lasso 
 -	Decision trees 
 -	Regression trees 

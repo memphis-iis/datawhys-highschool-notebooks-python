@@ -1,5 +1,7 @@
 # Datawhys High School content Notebooks (Python)
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/memphis-iis/datawhys-highschool-notebooks-python/master?urlpath=lab)
+
 -	Getting around 
 -	[Data science and the nature of data](Datascience_and_the_Nature_of_Data.ipynb) 
 -	[Plotting](Plotting.ipynb) 
